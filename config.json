@@ -1,0 +1,144 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": false,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "RL CRAFT 2.0 BP",
+        "role": "RL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BPRL CRAFT 2.0 BP",
+        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/RL CRAFT 2.0 BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/3/download.jpg"
+    },
+    {
+        "name": "RL CRAFT 2.0 RP",
+        "role": "RL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RPRL CRAFT 2.0 RP",
+        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/RL CRAFT 2.0 RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/4/download.jpg"
+    },
+    {
+        "name": "ICE AND FIRE ARMOR BP (B)",
+        "role": "ICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BPICE AND FIRE ARMOR BP",
+        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/ICE AND FIRE ARMOR BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/1/download.jpg"
+    },
+    {
+        "name": "ICE AND FIRE ARMOR RP",
+        "role": "ICE AND FIRE ARMOR RPICE AND FIRE ARMOR RPICE AND FIRE ARMOR RPICE AND FIRE ARMOR RP",
+        "image": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/ICE AND FIRE ARMOR RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/RLcraft/2/download.jpg"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9M73QB5r5lsiTDV9EW4HVN5SrICbQqo_fmSRYyzfED8aCZvzlnu4XJ0DA8-oYg61ZgWUN035EC_9q2qLuudyGc6k68BewerpM8uf",
+    "view_skin": "https://lh3.googleusercontent.com/yux2RS2z8aIQI1ftaWnxaomGyEDUJ7beSX3CwwcDPT-8g-7VC9FgQ87NjX0t_0UDTzElst0fImH-sXXRhEHhND0PZBj0FJY7GyY6"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/vCWC62QSEn8Qd1X2YjgVVqWWiFb1vjo8WoWKNPx0lb-8Hs52tsvng0c-JdeqmcGnsnqprfHM4IFLzX-oMDP0f40xQyYFxRNbx3A",
+    "view_skin": "https://lh3.googleusercontent.com/yhQOhbVBBeqJor38cbhOS2zIZMfZsId8Yv1x-M8tVwvT5OGU8is38sgPqK3a2vBM4fjcmPHUVviApqmsMRGeKaXWWQAXoX-evjw"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/IcpaEfzWzA1cO0nVoWCpmBz-81JJ_F4kAVTr7UpuUfTrUzRDBpRJxByo_QPGzUuRmlsXheQGFgd5a7bJX8bXV7GnZKke2KlASj4",
+    "view_skin": "https://lh3.googleusercontent.com/nidIUKnvbKx0jRIkBOSC46tRfbknGwwfyfuEDxmepReAz2wsDpBcL7b03q0C3tALvR-EDJ4pmNn3PaEzK47SUr02a7AlRz5Pisg"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/MIes-yqjEG6R6dPKcA9plO6gNFjbeIDrMvxjjNWcy69HoDEicpE4FGzJ5GKr0l684-LRe0CRcX_9vBPbpFeqN11865vCiivHMkM",
+    "view_skin": "https://lh3.googleusercontent.com/8fVf0qLJXaSlUDeMX5lJ3WWmUOk8HuuJBdl8X9fLEY9TW9t-QpVOvmvIxegvr0jPfJVm5yR2mmlqWqtN267jHlqLc-cxwfnmSA"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/COaMWRTsHr-kcyc0ce6lMfB4p720F0yA8P8Q64h0G3IX04xZPGtGOmCd-Xi45fDebws6Fr2NhpG6ozXf3OqcXR39NwUU_Nt-0wyZ",
+    "view_skin": "https://lh3.googleusercontent.com/bLcupHxasMjb1b4BBd8k3JcwyOHVKZTbEDqJcxY2Nf0P18jCXM2I9ImrCZ7jTCkdtSp6E0LUbT2TAtQTdDLu-6FVP-juvTzC174"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/UnPXOovo7LRIsN4R_j6O-ocgV6QWFza1Iq1woyPdAKQAdaNwgYloWQUTLdCVvQrHgQvCGfLkXYTuM1vCJlHWWplLZqifQRVPWu4",
+    "view_skin": "https://lh3.googleusercontent.com/IrdHL_JrjtJnJc9yomzLE-5CJ24Uqh1b7opupKxmSJrOQj05P6-7vuuFHog_UkTcKt_5MMWhOIEzETlALaklpS5Z_9ghcsKI5A"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
